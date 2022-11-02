@@ -1,0 +1,47 @@
+
+.portfolio-main-container{
+    height: 100vh;
+    width: 100%;
+    background-color: #11110d;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 7;
+    -webkit-box-shadow: 0px 5px 15px 2px #000000;
+    box-shadow: 0px 5px 15px 2px #000000;;
+}
+
+.portfolio-title{
+    color: #FE5F00;
+    position: relative;
+    font-size: 56px;
+    font-family: monospace;
+    left: -430px;
+    margin-top: 100px;
+}
+
+hr{
+    width: 100%;
+    border: none;
+    background-color: #FE5F00;
+    height: 2px;
+}
+
+.laptop{
+    width: 260px;
+    height: 200px;
+}
+
+.project-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.project-description{
+    color: #FE5F00;
+    font-family: monospace;
+    width: 70ch;
+    margin-left: 150px;
+}

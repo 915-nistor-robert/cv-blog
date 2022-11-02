@@ -1,0 +1,5 @@
+export {default as about_photo1} from './about_photo1.jpg'
+export {default as about_photo2} from './about_photo2.jpg'
+export {default as about_photo3} from './about_photo3.jpg'
+export {default as about_photo4} from './about_photo4.jpg'
+export {default as about_photo5} from './about_photo5.jpg'

@@ -1,0 +1,13 @@
+.side-bar-container{
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    justify-content: flex-start;
+    width: 20%;
+    height: 100vh;
+    background-color: #322F20;
+    -webkit-box-shadow: 15px 0px 5px 1px rgba(0,0,0,0.5);
+    box-shadow: 5px 0px 5px 1px rgba(0,0,0,0.5);
+    z-index:10;
+}
